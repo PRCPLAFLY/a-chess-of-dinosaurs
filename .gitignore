@@ -1,7 +1,7 @@
-# Byte-compiled / optimized / DLL files
+# hgByte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-
+#membes : zhangyice and prcplafly
 # C extensions
 *.so
 
