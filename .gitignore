@@ -52,3 +52,4 @@ docs/_build/
 
 # PyBuilder
 target/
+# _*_ coding: utf_8 _*_
