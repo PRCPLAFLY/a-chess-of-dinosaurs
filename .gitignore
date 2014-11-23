@@ -52,4 +52,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
 # _*_ coding: utf_8 _*_
+def transpose(b):
+    num=len(b[0])
+    a=[]
+    a=[a[:]]for x in range(num)]
+    for j in range(num):
+         for i in b:
+             a[j].append(i[j])
+    return a
+    
